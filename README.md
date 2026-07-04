@@ -1,10 +1,8 @@
-A complete JavaScript learning repository covering everything from the fundamentals to advanced concepts with practical examples and mini projects.
+A complete JavaScript learning repository covering everything from the fundamentals to advanced concepts with practical examples.
 
 ---
 
 # 📖 About This Repository
-
-This repository is designed for students, beginners, and aspiring developers who want to master JavaScript from scratch.
 
 Every topic is explained with:
 
@@ -12,27 +10,7 @@ Every topic is explained with:
 - ✅ Clean source code
 - ✅ Practical examples
 - ✅ Hands-on exercises
-- ✅ Mini projects
 - ✅ Best practices
-
-Whether you're preparing for interviews, learning web development, or improving your programming skills, this repository will help you build a strong JavaScript foundation.
-
----
-
-# 🎯 Learning Objectives
-
-After completing this repository, you will be able to:
-
-- Understand JavaScript fundamentals
-- Write clean and efficient code
-- Solve programming problems
-- Manipulate the DOM
-- Handle events
-- Work with APIs
-- Use asynchronous JavaScript
-- Apply Object-Oriented Programming
-- Understand ES6+ features
-- Build real-world JavaScript applications
 
 ---
 
